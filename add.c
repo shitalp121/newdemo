@@ -8,4 +8,5 @@ main()
 		
 	}
 	printf("\n %d",sum);
+	printf("\n hey there!");
 }
